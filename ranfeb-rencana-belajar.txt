@@ -1,5 +1,7 @@
 RENCANA BELAJAR RANFEB
 - NodeJS
+  * Apa itu NodeJS?
+  * Membuat web menggunakan NodeJS
 - ReactJS
 - SASS
 - Javascript lanjutan
