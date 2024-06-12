@@ -5,7 +5,6 @@ RENCANA BELAJAR RANFEB
     ^ syntaks dasar
     ^ syntaks event
 - ReactJS
-- SASS
 - Javascript lanjutan
   * Async
 - Webpack
