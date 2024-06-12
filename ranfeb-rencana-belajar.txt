@@ -5,3 +5,4 @@ RENCANA BELAJAR RANFEB
 - ReactJS
 - SASS
 - Javascript lanjutan
+- Webpack
