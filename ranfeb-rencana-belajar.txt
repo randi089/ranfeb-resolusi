@@ -2,7 +2,9 @@ RENCANA BELAJAR RANFEB
 - NodeJS
   * Apa itu NodeJS?
   * Membuat web menggunakan NodeJS
+    ^ Syntax database
+    ^ Syntax event
 - ReactJS
-- SASS
 - Javascript lanjutan
+  * Async
 - Webpack
