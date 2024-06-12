@@ -3,6 +3,7 @@ RENCANA BELAJAR RANFEB
   * Apa itu NodeJS?
   * Membuat web menggunakan NodeJS
     ^ syntaks dasar
+    ^ syntaks event
 - ReactJS
 - SASS
 - Javascript lanjutan
